@@ -1,0 +1,5 @@
+PHP WORDPRESS
+
+// Llevar al home del tema //
+
+<a href="<?php echo get_option('home'); ?>" />
